@@ -17,21 +17,21 @@ You can download the precompiled `kernel` and `fs.img` from this repository.
 **Using git:**
 
 ```bash
-git clone https://github.com/eniompw/xv6-unix-on-windows.git
+git clone https://github.com/EN10/xv6-unix-on-windows.git
 ```
 
 **Using curl:**
 
 ```bash
-curl -L -o kernel https://github.com/eniompw/xv6-unix-on-windows/raw/main/kernel
-curl -L -o fs.img https://github.com/eniompw/xv6-unix-on-windows/raw/main/fs.img
+curl -L -o kernel https://github.com/EN10/xv6-unix-on-windows/raw/main/kernel
+curl -L -o fs.img https://github.com/EN10/xv6-unix-on-windows/raw/main/fs.img
 ```
 
 **Using wget:**
 
 ```bash
-wget -O kernel https://github.com/eniompw/xv6-unix-on-windows/raw/main/kernel
-wget -O fs.img https://github.com/eniompw/xv6-unix-on-windows/raw/main/fs.img
+wget -O kernel https://github.com/EN10/xv6-unix-on-windows/raw/main/kernel
+wget -O fs.img https://github.com/EN10/xv6-unix-on-windows/raw/main/fs.img
 ```
 
 ### Option 2: Build from Source
